@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi There 👋
+
+### ✍️Name✍️: Kimberley
+### 📖Age📖: 18 (19 soon🥳)
+### 🤓Pronouns🤓: Any pronouns (They/She/Him)
+### 📚Status📚: Student (Creative Computing)
+### 🤔Interests🤔:
+###        - Video games🎮
+###        - Animals (especially cats)🐈‍⬛
+###        - Data / Spreadsheets📰
+###        - Art / Doodling🖌️
 
 <!--
 **KV-24/KV-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
